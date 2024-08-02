@@ -22,3 +22,7 @@ INFO: General information about the application’s operation (e.g., startup, sh
 WARN: Potential issues that may need attention but are not critical.
 ERROR: Errors that indicate a problem has occurred, potentially affecting functionality.
 FATAL: Severe errors that cause the application to terminate.
+
+
+
+N.B: codes of the sevlet are in src/main/java/clb    and for the jsp in webapp/
