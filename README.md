@@ -19,7 +19,7 @@ Logging levels indicate the severity of the events being logged. Common levels i
 TRACE: Detailed information, typically useful for diagnosing issues.
 DEBUG: Informational events that are helpful during development and debugging.
 INFO: General information about the application’s operation (e.g., startup, shutdown).
-WARN: Potential issues that may need attention but are not critical.
+WARN(WARNING): Potential issues that may need attention but are not critical.
 ERROR: Errors that indicate a problem has occurred, potentially affecting functionality.
 FATAL: Severe errors that cause the application to terminate.
 
